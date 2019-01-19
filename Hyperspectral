@@ -1,0 +1,2 @@
+#Hyperspectral Camera
+Masking the roi with colours R,G and B from 0 to 255.The number of pixels satisifing this criteria is 
